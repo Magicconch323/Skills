@@ -68,3 +68,7 @@
 | 内容运营 | consumer-psychology | 人性与说服心理：真诚前提下的影响力 |
 | 内容运营 | platform-content-ops | 平台内容运营：小红书/B站/抖音的选题、节奏与复盘 |
 | 内容运营 | short-video-scripting | 短视频与长视频脚本：钩子、节奏、分镜 |
+| 外贸管理 | b2b-cold-email | 外贸开发信与客户开发流程 |
+| 外贸管理 | incoterms-trade-docs | 贸易术语、单证与收款 |
+| 外贸管理 | negotiation-business-english | 商务英语与谈判 |
+| 外贸管理 | steel-market-intel | 钢材外贸市场与贸易政策情报 |
