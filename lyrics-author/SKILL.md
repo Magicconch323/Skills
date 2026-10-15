@@ -36,14 +36,14 @@ description: >-
 
 | 位置 | 路径 |
 |------|------|
-| 维护源（Plan） | `e:/coding/skills/my skill/lyrics-author` |
+| 维护源（Plan） | `e:/coding/.cursor/skills/lyrics-author` |
 | Cursor 加载 | `e:/coding/.cursor/skills/lyrics-author`（联接指向上者） |
 
 **扫描脚本**（工作目录 `e:/coding`）：
 
 ```bash
-python skills/my skill/lyrics-author/scripts/scan_lyrics_corpus.py
-python skills/my skill/lyrics-author/scripts/scan_lyrics_corpus.py --write
+python .cursor/skills/lyrics-author/scripts/scan_lyrics_corpus.py
+python .cursor/skills/lyrics-author/scripts/scan_lyrics_corpus.py --write
 ```
 
 **在本日历日内，若本 Skill 第一次被用于本次对话**：先执行每日检查（若今日已检查过，可跳过）。
