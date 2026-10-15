@@ -64,3 +64,7 @@
 | 品牌资产 | aesthetic-profile | 主人个人审美档案的建立与维护 |
 | 品牌资产 | brand-building-logic | 成功品牌的要素与底层逻辑 |
 | 品牌资产 | brand-strategy-market-sense | 广告与战略基础、市场商业感、跟进时事 |
+| 内容运营 | copywriting-craft | 文案写作功底：标题、钩子、结构、改稿 |
+| 内容运营 | consumer-psychology | 人性与说服心理：真诚前提下的影响力 |
+| 内容运营 | platform-content-ops | 平台内容运营：小红书/B站/抖音的选题、节奏与复盘 |
+| 内容运营 | short-video-scripting | 短视频与长视频脚本：钩子、节奏、分镜 |
