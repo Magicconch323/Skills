@@ -54,3 +54,13 @@
 | `skills/网页设计/libs/react-bits`、`tools/` | **从未落地 / 已不存在**；react-bits 用 npm/CLI，见该 skill |
 | 失效联接（`.agents/skills` 等） | 已删联接 |
 
+## 2026-10-16 专家 skill 扩充
+
+| Bot | Skill | 说明 |
+|---|---|---|
+| 品牌资产 | graphic-design-foundations | 平面设计基础：网格、版式、字体、色彩、层级 |
+| 品牌资产 | spatial-aesthetics | 室内设计与空间美学：尺度、光、材质、动线 |
+| 品牌资产 | visual-style-atlas | 审美与风格流派图谱：识别特征与适用场景 |
+| 品牌资产 | aesthetic-profile | 主人个人审美档案的建立与维护 |
+| 品牌资产 | brand-building-logic | 成功品牌的要素与底层逻辑 |
+| 品牌资产 | brand-strategy-market-sense | 广告与战略基础、市场商业感、跟进时事 |
