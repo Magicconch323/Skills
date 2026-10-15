@@ -79,3 +79,6 @@
 | 小秘书 | time-management-systems | 时间管理体系：GTD、时间块、深度工作 |
 | 小秘书 | goal-systems-habits | 目标与习惯：OKR、习惯系统 |
 | 小秘书 | decision-retrospective | 决策与复盘：概率思维、事前验尸 |
+| 日常 | objective-qa-method | 客观问答方法：先查再答、给证据 |
+| 日常 | source-evaluation | 信息源评估与辟谣 |
+| 日常 | practical-life-knowledge | 生活实用常识：消费维权、合同、安全 |
