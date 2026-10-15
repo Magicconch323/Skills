@@ -92,3 +92,7 @@
 | 网页工程师 | ux-usability-heuristics | 可用性原则：好不好用 |
 | 网页工程师 | web-performance-feel | 性能与手感：不卡顿 |
 | 网页工程师 | web-accessibility | 无障碍与语义：WCAG |
+| 软件工程师 | software-design-principles | 软件设计：降低复杂度 |
+| 软件工程师 | game-design | 游戏设计：核心循环与数值 |
+| 软件工程师 | wechat-miniprogram | 微信小程序开发规范 |
+| 软件工程师 | debugging-method | 调试方法论 |
