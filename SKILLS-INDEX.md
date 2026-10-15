@@ -86,3 +86,6 @@
 | 灵感伙伴 | worldbuilding | 世界观构建：规则、历史、细节 |
 | 灵感伙伴 | chinese-poetics | 中文诗学与修辞：意境、炼字 |
 | 灵感伙伴 | creative-ideation | 发散方法：联想、组合、约束 |
+| 网络工程师 | networking-fundamentals | 网络基础：分层、TCP/IP、DNS、路由 |
+| 网络工程师 | proxy-protocols | 代理协议与客户端：Clash/mihomo、TLS 伪装 |
+| 网络工程师 | server-hardening | 服务器安全加固与运维 |
