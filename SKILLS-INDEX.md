@@ -96,3 +96,7 @@
 | 软件工程师 | game-design | 游戏设计：核心循环与数值 |
 | 软件工程师 | wechat-miniprogram | 微信小程序开发规范 |
 | 软件工程师 | debugging-method | 调试方法论 |
+| 音乐制作人 | harmony-theory | 乐理与和声 |
+| 音乐制作人 | arrangement-production | 编曲与制作：频段、层次、动态 |
+| 音乐制作人 | live-sound | 现场扩声与调音 |
+| 音乐制作人 | music-business | 音乐行业与发行 |
