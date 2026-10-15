@@ -10,7 +10,7 @@ description: >-
 
 ## 触发
 
-用户消息包含：**现在开始网页设计** → 同时遵守 `e:/coding/.cursor/rules/web-design-start.mdc`。
+用户消息包含：**现在开始网页设计** → 同时遵守 `e:/coding/Project/出去玩官网/.cursor/rules/web-design-start.mdc`。
 
 ## 流程（按序）
 

@@ -103,7 +103,7 @@ Copy-Item -Recurse _tmp-uib/skills/ui-design-brain e:/coding/.cursor/skills/ui-d
 | Figma MCP | Cursor 插件 + `figma-*` skills（插件缓存目录） |
 | 本地资源 | `e:/coding/skills/网页设计/`（libs、tools、upstream、design-systems） |
 
-> `.cursor/skills/` 在 `.gitignore` 里，Mac 开工后若 skill 缺失，运行 `bash scripts/setup-cursor-skills.sh`（Windows 用 `setup-cursor-skills.ps1`）。
+> `.cursor/skills/` 是独立的 skills 仓库（在 Plan 的 `.gitignore` 里）；换新电脑若 skill 缺失，运行 `scripts/setup-cursor-skills.ps1` 拉取。
 
 ---
 

@@ -47,7 +47,7 @@ npx shadcn@latest add @react-bits/BlurText-TS-TW
 ## 本地预览全部组件
 
 ```powershell
-cd e:\coding\skills\libs\react-bits
+cd e:\coding\skills\网页设计\libs\react-bits
 npm install
 npm run dev
 ```

@@ -6,7 +6,7 @@
 | 来源 | Skill | 用途 | 路径 |
 |---|---|---|---|
 | 自写 | **auto-iterate** | 同一交付物改满三轮时用三问收敛方向；同一问题改三次不好则转根因讨论 | `.cursor/skills/auto-iterate/SKILL.md` |
-| 自写 | **plan-mentor-maverick** | 激进派年度计划导师：维护 Project/年度计划/年度计划.md，以赚钱为北极星做取舍 | `.cursor/skills/plan-mentor-maverick/SKILL.md` |
+| 自写 | **plan-mentor-maverick** | 激进派年度计划导师：维护 年度计划/年度计划.md，以赚钱为北极星做取舍 | `.cursor/skills/plan-mentor-maverick/SKILL.md` |
 | 自写 | **task-breakdown-secretary** | 任务拆解秘书：把年度计划拆成每周/每日动作，内置《高性价比人生指南》决策查询 | `.cursor/skills/task-breakdown-secretary/SKILL.md` |
 | 自写 | **dispute-reply-ghostwriter** | 纠纷回复代笔：以本人口吻起草克制、守边界的对外纠纷回复 | `.cursor/skills/dispute-reply-ghostwriter/SKILL.md` |
 | 自写 | **renovation-knowledge-index** | 装修问答：查 知识库/装修资料 并联网核实（触发词「执行装修skill」） | `.cursor/skills/renovation-knowledge-index/SKILL.md` |
