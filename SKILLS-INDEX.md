@@ -76,3 +76,6 @@
 | 大师 | ziwei-doushu | 紫微斗数：命盘结构与解读 |
 | 大师 | yijing-study | 易经与占卜：卦象、爻辞、义理 |
 | 大师 | western-astrology | 西洋占星与星座：星盘结构 |
+| 小秘书 | time-management-systems | 时间管理体系：GTD、时间块、深度工作 |
+| 小秘书 | goal-systems-habits | 目标与习惯：OKR、习惯系统 |
+| 小秘书 | decision-retrospective | 决策与复盘：概率思维、事前验尸 |
