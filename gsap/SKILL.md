@@ -1,4 +1,4 @@
----
+﻿---
 name: gsap
 description: >-
   Use the local GSAP 3 copy at e:/coding/skills/网页设计/libs/gsap for scroll-driven
@@ -11,7 +11,7 @@ description: >-
 
 # GSAP（本地）
 
-合集目录：`e:/coding/skills/网页设计/libs/`（与 animejs、react-bits 同目录）。
+合集目录：`e:/coding/skills/网页设计/libs/`（与 animejs 同目录；react-bits 无本地 libs，用 npm/CLI）。
 
 上游：[greensock/GSAP](https://github.com/greensock/GSAP) · 文档 [gsap.com](https://gsap.com) · 当前版本见 `libs/gsap/VERSION.txt`。
 
@@ -72,3 +72,4 @@ description: >-
 ## 与 web-design-workflow 的关系
 
 说「现在开始网页设计」且需要**滚动叙事 / 复杂时间轴**时：加载本 skill + `frontend-design`；轻量入场用 `animejs`；React 组件动效用 `react-bits`。
+

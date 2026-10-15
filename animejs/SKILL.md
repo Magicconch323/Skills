@@ -1,11 +1,11 @@
----
+﻿---
 name: animejs
 description: Use the local Anime.js v4 copy at e:/coding/skills/网页设计/libs/animejs for all frontend DOM/CSS/SVG/canvas animations. TRIGGER whenever the user asks for web animations, motion, easing, timelines, stagger, scroll-driven animation, draggable UI motion, or mentions anime.js/animejs — even if they only say "做个动画" or "加过渡". Prefer this library over hand-written requestAnimationFrame or raw CSS keyframes unless the effect is trivial (single hover opacity). For React component libraries use react-bits skill instead.
 ---
 
 # Anime.js（本地）
 
-合集目录：`e:/coding/skills/网页设计/libs/`（与 gsap、react-bits 同目录）。
+合集目录：`e:/coding/skills/网页设计/libs/`（与 gsap 同目录；**权威运行时**）。`react-bits` 本地目录不存在，见 react-bits skill。
 
 ## 本地路径（唯一权威来源）
 
@@ -78,3 +78,4 @@ import * as text from '…/dist/modules/text/index.js';
 ## 迁移
 
 v3 → v4：<https://github.com/juliangarnier/anime/wiki/Migrating-from-v3-to-v4>
+

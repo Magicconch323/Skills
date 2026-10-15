@@ -1,4 +1,4 @@
-# 网页设计 — 社区 Skill / Rule 索引
+﻿# 网页设计 — 社区 Skill / Rule 索引
 
 > 维护说明：复制 `.mdc` 到项目 `e:/coding/.cursor/rules/`；复制他人 `SKILL.md` 到 `e:/coding/.cursor/skills/<name>/` 或全局 `~/.cursor/skills/`。
 
@@ -95,7 +95,7 @@ Copy-Item -Recurse _tmp-uib/skills/ui-design-brain e:/coding/.cursor/skills/ui-d
 | 本 workflow | `.cursor/skills/web-design-workflow/` |
 | 视觉实现 | `.cursor/skills/frontend-design/` |
 | UI/UX 检索 | `.cursor/skills/ui-ux-pro-max/` → `.cursor/skills/ui-ux-pro-max/` |
-| 改版 / audit | `.cursor/skills/impeccable/` → `.cursor/skills/impeccable/（上游全量已归档到 skills/_archive/impeccable-upstream）` |
+| 改版 / audit | `.cursor/skills/impeccable/` → `.cursor/skills/impeccable/`（上游 `_archive` 已删） |
 | 品牌 DESIGN.md | `.cursor/skills/awesome-claude-design/` + `skills/网页设计/design-systems/` |
 | 复杂 React 产物 | `.cursor/skills/web-artifacts-builder/` |
 | 动效 | `.cursor/skills/animejs/`、`gsap/`、`react-bits/` |
@@ -129,3 +129,4 @@ Copy-Item -Recurse _tmp-uib/skills/ui-design-brain e:/coding/.cursor/skills/ui-d
 - 项目 Rules：`.cursor/rules/*.mdc`（`description` + `globs` + `alwaysApply`）
 
 触发词：**现在开始网页设计**
+
