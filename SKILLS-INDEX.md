@@ -89,3 +89,6 @@
 | 网络工程师 | networking-fundamentals | 网络基础：分层、TCP/IP、DNS、路由 |
 | 网络工程师 | proxy-protocols | 代理协议与客户端：Clash/mihomo、TLS 伪装 |
 | 网络工程师 | server-hardening | 服务器安全加固与运维 |
+| 网页工程师 | ux-usability-heuristics | 可用性原则：好不好用 |
+| 网页工程师 | web-performance-feel | 性能与手感：不卡顿 |
+| 网页工程师 | web-accessibility | 无障碍与语义：WCAG |
