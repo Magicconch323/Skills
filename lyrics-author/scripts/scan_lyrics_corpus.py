@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scan e:/coding/歌词 for changes vs corpus-state.json. Exit 0 always; prints JSON summary."""
+"""Scan e:/coding/知识库/歌词 for changes vs corpus-state.json. Exit 0 always; prints JSON summary."""
 from __future__ import annotations
 
 import glob
@@ -8,7 +8,7 @@ import os
 import sys
 from datetime import datetime, timezone
 
-CORPUS = os.environ.get("LYRICS_CORPUS", r"e:/coding/歌词")
+CORPUS = os.environ.get("LYRICS_CORPUS", r"e:/coding/知识库/歌词")
 STATE = os.environ.get(
     "LYRICS_CORPUS_STATE",
     os.path.join(os.path.dirname(__file__), "..", "corpus-state.json"),
