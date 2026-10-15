@@ -1,7 +1,7 @@
-﻿# Skills 索引
+# Skills 索引
 
 > 唯一实体位置：`.cursor/skills/<skill-name>/SKILL.md`（独立仓库 Magicconch323/Skills）。文件夹名 = SKILL.md 里的 `name`。
-> 维护：大管家 Bot。最后更新：2026-10-15。共 34 个。
+> 维护：大管家 Bot。最后更新：2026-10-15。共 33 个。
 
 | 来源 | Skill | 用途 | 路径 |
 |---|---|---|---|
@@ -13,7 +13,6 @@
 | 自写 | **lyrics-author** | 中文作词：从 知识库/歌词 语料学习个人风格，动笔前先问 5–10 个问题 | `.cursor/skills/lyrics-author/SKILL.md` |
 | 自写 | **chord-sheet** | 和弦谱：产出 A4 单页 .docx 和弦谱，存 Project/和弦谱/ | `.cursor/skills/chord-sheet/SKILL.md` |
 | 自写 | **suno-prompt** | Suno v6 提示词包：Style / Exclude / Controls / 歌词骨架 + 校验脚本 | `.cursor/skills/suno-prompt/SKILL.md` |
-| 自写 | **vocal-separator** | 人声/伴奏分离（audio-separator + UVR 模型）；.venv 需本机用 scripts/setup.ps1 重建（旧 my skill 联接已废弃） | `.cursor/skills/vocal-separator/SKILL.md` |
 | 自写 | **web-design-workflow** | 「现在开始网页设计」总工作流：选栈、加载其他前端 skill、反 AI 模板审美 | `.cursor/skills/web-design-workflow/SKILL.md` |
 | 自写 | **web-self-check** | 网页交付前 Playwright 截图 + 交互验收，不合格自动再改 | `.cursor/skills/web-self-check/SKILL.md` |
 | 本地封装 | **animejs** | 使用本地 Anime.js v4（skills/网页设计/libs/animejs）做轻量动效 | `.cursor/skills/animejs/SKILL.md` |
@@ -44,14 +43,14 @@
 
 - 网页：`web-design-workflow` 是入口，按需调用 `frontend-design` / `impeccable` / `ui-ux-pro-max` / `animejs` / `gsap` / `react-bits`；交付前 `web-self-check`（依赖 `webapp-testing`）。
 - 年度计划：`plan-mentor-maverick` 定方向，`task-breakdown-secretary` 拆执行。
-- 音乐：`lyrics-author` 写词 → `chord-sheet` 出谱 → `suno-prompt` 生成 → `vocal-separator` 拆轨。
+- 音乐：`lyrics-author` 写词 → `chord-sheet` 出谱 → `suno-prompt` 生成。
 
 ## 已归档 / 已移除（2026-10-15 整理）
 
 | 项目 | 去向 |
 |---|---|
 | `skills/_archive/`（含 anthropic / impeccable / ui-ux 上游副本） | **已删除**（2026-10-15）；运行时以 `.cursor/skills/` 为准 |
-| `skills/my skill/` | **已删除**；实体早在 `.cursor/skills/`；`.venv` 联接已拆除，需 setup.ps1 重建 |
+| `skills/my skill/` + `.cursor/skills/vocal-separator/` | **已删除**（2026-10-15；人声分离不再需要） |
 | `skills/网页设计/libs/react-bits`、`tools/` | **从未落地 / 已不存在**；react-bits 用 npm/CLI，见该 skill |
 | 失效联接（`.agents/skills` 等） | 已删联接 |
 
