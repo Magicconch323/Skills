@@ -72,3 +72,7 @@
 | 外贸管理 | incoterms-trade-docs | 贸易术语、单证与收款 |
 | 外贸管理 | negotiation-business-english | 商务英语与谈判 |
 | 外贸管理 | steel-market-intel | 钢材外贸市场与贸易政策情报 |
+| 大师 | bazi-classics | 八字古籍体系：格局、用神、调候 |
+| 大师 | ziwei-doushu | 紫微斗数：命盘结构与解读 |
+| 大师 | yijing-study | 易经与占卜：卦象、爻辞、义理 |
+| 大师 | western-astrology | 西洋占星与星座：星盘结构 |
