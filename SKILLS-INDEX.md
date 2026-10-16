@@ -9,7 +9,7 @@
 | 自写 | **plan-mentor-maverick** | 激进派年度计划导师：维护 年度计划/年度计划.md，以赚钱为北极星做取舍 | `.cursor/skills/plan-mentor-maverick/SKILL.md` |
 | 自写 | **task-breakdown-secretary** | 任务拆解秘书：把年度计划拆成每周/每日动作，内置《高性价比人生指南》决策查询 | `.cursor/skills/task-breakdown-secretary/SKILL.md` |
 | 自写 | **dispute-reply-ghostwriter** | 纠纷回复代笔：以本人口吻起草克制、守边界的对外纠纷回复 | `.cursor/skills/dispute-reply-ghostwriter/SKILL.md` |
-| 自写 | **renovation-knowledge-index** | 装修问答：查 知识库/装修资料 并联网核实（触发词「执行装修skill」） | `.cursor/skills/renovation-knowledge-index/SKILL.md` |
+| 自写 | **renovation-knowledge-index** | 装修问答：查 知识库/装修资料 并联网核实（触发词「执行装修skill」）；2026-10-16 起归图书馆 | `.cursor/skills/renovation-knowledge-index/SKILL.md` |
 | 自写 | **lyrics-author** | 中文作词：从 知识库/歌词 语料学习个人风格，动笔前先问 5–10 个问题 | `.cursor/skills/lyrics-author/SKILL.md` |
 | 自写 | **chord-sheet** | 和弦谱：产出 A4 单页 .docx 和弦谱，存 Project/和弦谱/ | `.cursor/skills/chord-sheet/SKILL.md` |
 | 自写 | **suno-prompt** | Suno v6 提示词包：Style / Exclude / Controls / 歌词骨架 + 校验脚本 | `.cursor/skills/suno-prompt/SKILL.md` |
@@ -100,3 +100,26 @@
 | 音乐制作人 | arrangement-production | 编曲与制作：频段、层次、动态 |
 | 音乐制作人 | live-sound | 现场扩声与调音 |
 | 音乐制作人 | music-business | 音乐行业与发行 |
+
+## 2026-10-16 图书馆新建 · 日常法律 skill
+
+| Bot | Skill | 说明 |
+|---|---|---|
+| 图书馆 | knowledge-note-format | 知识笔记格式、中文排版与 Notion 兼容写法 |
+| 图书馆 | knowledge-distillation | 从碎片内容提炼学术知识点与延展 |
+| 图书馆 | quotes-and-allusions | 书摘、典故、名言的选用、核实与引用格式 |
+| 图书馆 | knowledge-taxonomy | 分类体系、标签、双向链接、Notion 一学科一页规则 |
+| 图书馆 | learning-science-teaching | 学习科学教学法与每日知识点推送 |
+| 图书馆 | notion-sync | 本地 ↔ Notion 同步规范（迁移启动后启用） |
+| 图书馆 | academic-research-sources | 文献检索与学术数据库 |
+| 图书馆 | discipline-map | 各学科入门导航与经典书单 |
+| 图书馆 | visual-explanation | 表格、Mermaid、思维导图等图解表达 |
+| 图书馆 | kb-maintenance-review | 知识库体检、去重、断链修复与回顾 |
+| 图书馆 | renovation-knowledge-index | （自日常划入）装修资料检索 |
+| 日常 | china-civil-law-basics | 民法典：合同、侵权、婚姻继承 |
+| 日常 | labor-law-rights | 劳动合同、工资、经济补偿、劳动仲裁 |
+| 日常 | consumer-dispute-handling | 消费维权、12315、小额诉讼 |
+| 日常 | housing-rental-property-law | 租房、买房、物业、装修纠纷 |
+| 日常 | legal-procedure-evidence | 证据保全、时效、民事诉讼、12348 法律援助 |
+| 日常 | personal-info-online-rights | 个人信息保护、网络侵权、网络诈骗 |
+| 日常 | traffic-accident-handling | 交通事故处置与理赔 |
