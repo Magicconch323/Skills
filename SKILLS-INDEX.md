@@ -1,7 +1,7 @@
 # Skills 索引
 
 > 唯一实体位置：`.cursor/skills/<skill-name>/SKILL.md`（独立仓库 Magicconch323/Skills）。文件夹名 = SKILL.md 里的 `name`。
-> 维护：大管家 Bot。最后更新：2026-10-16。共 98 个。
+> 维护：大管家 Bot。最后更新：2026-10-17。共 124 个。
 
 | 来源 | Skill | 用途 | 路径 |
 |---|---|---|---|
@@ -38,6 +38,30 @@
 | Anthropic 官方 | **web-artifacts-builder** | React + shadcn 复杂 HTML 产物 | `.cursor/skills/web-artifacts-builder/SKILL.md` |
 | Anthropic 官方 | **webapp-testing** | Playwright 测试本地网页 | `.cursor/skills/webapp-testing/SKILL.md` |
 | Anthropic 官方 | **xlsx** | 读写电子表格 | `.cursor/skills/xlsx/SKILL.md` |
+| 第三方 | **skill-trending-topics** | ZJU-REAL/Easel（Apache-2.0）：热点发现：抓各平台热搜，给选题窗口 | `.cursor/skills/skill-trending-topics/SKILL.md` |
+| 第三方 | **skill-competitor-analysis** | ZJU-REAL/Easel（Apache-2.0）：竞品内容分析：拆对标账号选题与表现 | `.cursor/skills/skill-competitor-analysis/SKILL.md` |
+| 第三方 | **skill-content-gap-analysis** | ZJU-REAL/Easel（Apache-2.0）：蓝海选题：找竞品未覆盖的内容缺口 | `.cursor/skills/skill-content-gap-analysis/SKILL.md` |
+| 第三方 | **skill-cross-platform-diff** | ZJU-REAL/Easel（Apache-2.0）：跨平台差异：同题材在不同平台怎么改 | `.cursor/skills/skill-cross-platform-diff/SKILL.md` |
+| 第三方 | **skill-event-calendar** | ZJU-REAL/Easel（Apache-2.0）：节日节点日历：节气/热点排期参考 | `.cursor/skills/skill-event-calendar/SKILL.md` |
+| 第三方 | **skill-trend-rider** | ZJU-REAL/Easel（Apache-2.0）：蹭热点方案：把热点接到账号定位上 | `.cursor/skills/skill-trend-rider/SKILL.md` |
+| 第三方 | **skill-topic-evaluator** | ZJU-REAL/Easel（Apache-2.0）：选题可行性评估：单条深评打分 | `.cursor/skills/skill-topic-evaluator/SKILL.md` |
+| 第三方 | **skill-hook-generator** | ZJU-REAL/Easel（Apache-2.0）：Hook 变体：标题/开头钩子多版生成 | `.cursor/skills/skill-hook-generator/SKILL.md` |
+| 第三方 | **skill-carousel-planner** | ZJU-REAL/Easel（Apache-2.0）：轮播图规划：多页卡片叙事结构 | `.cursor/skills/skill-carousel-planner/SKILL.md` |
+| 第三方 | **skill-content-calendar** | ZJU-REAL/Easel（Apache-2.0）：内容排期表：周/月发什么、发哪 | `.cursor/skills/skill-content-calendar/SKILL.md` |
+| 第三方 | **xhs-note-creator** | ZJU-REAL/Easel（Apache-2.0）：小红书笔记创作：策划到成稿 | `.cursor/skills/xhs-note-creator/SKILL.md` |
+| 第三方 | **card-design** | ZJU-REAL/Easel（Apache-2.0）：卡片设计系统：视觉风格与版式（生成前必读） | `.cursor/skills/card-design/SKILL.md` |
+| 第三方 | **card-xiaohongshu** | ZJU-REAL/Easel（Apache-2.0）：小红书竖版知识卡片渲染（1080×1440） | `.cursor/skills/card-xiaohongshu/SKILL.md` |
+| 第三方 | **social-content** | ZJU-REAL/Easel（Apache-2.0）：社媒内容创作：多平台文案骨架 | `.cursor/skills/social-content/SKILL.md` |
+| 第三方 | **text-polisher** | ZJU-REAL/Easel（Apache-2.0）：文本润色：改自然、去 AI 腔 | `.cursor/skills/text-polisher/SKILL.md` |
+| 第三方 | **skill-content-repurposing** | ZJU-REAL/Easel（Apache-2.0）：内容改编：一条内容改成多平台版本 | `.cursor/skills/skill-content-repurposing/SKILL.md` |
+| 第三方 | **style-transfer** | ZJU-REAL/Easel（Apache-2.0）：文案风格迁移：套目标语气/人设 | `.cursor/skills/style-transfer/SKILL.md` |
+| 第三方 | **skill-persona-check** | ZJU-REAL/Easel（Apache-2.0）：人设一致性检查：发前核对口吻 | `.cursor/skills/skill-persona-check/SKILL.md` |
+| 第三方 | **skill-publish-checklist** | ZJU-REAL/Easel（Apache-2.0）：发布前完整性检查：字段与素材是否齐 | `.cursor/skills/skill-publish-checklist/SKILL.md` |
+| 第三方 | **skill-quality-gate** | ZJU-REAL/Easel（Apache-2.0）：发布前质量关卡：达标才放行 | `.cursor/skills/skill-quality-gate/SKILL.md` |
+| 第三方 | **skill-seo-quality** | ZJU-REAL/Easel（Apache-2.0）：平台原生搜索优化：标题标签可搜性 | `.cursor/skills/skill-seo-quality/SKILL.md` |
+| 第三方 | **skill-content-postmortem** | ZJU-REAL/Easel（Apache-2.0）：内容复盘：爆款规律提炼 | `.cursor/skills/skill-content-postmortem/SKILL.md` |
+| 第三方 | **skill-comment-insights** | ZJU-REAL/Easel（Apache-2.0）：评论区洞察：量化反馈与选题线索 | `.cursor/skills/skill-comment-insights/SKILL.md` |
+| 第三方 | **skill-social-performance-review** | ZJU-REAL/Easel（Apache-2.0）：月度效果复盘：数据对照目标 | `.cursor/skills/skill-social-performance-review/SKILL.md` |
 
 ## 功能重叠（已保留，按场景选用）
 
@@ -68,6 +92,30 @@
 | 内容运营 | consumer-psychology | 人性与说服心理：真诚前提下的影响力 |
 | 内容运营 | platform-content-ops | 平台内容运营：小红书/B站/抖音的选题、节奏与复盘 |
 | 内容运营 | short-video-scripting | 短视频与长视频脚本：钩子、节奏、分镜 |
+| 内容运营 | skill-trending-topics | 第三方 ZJU-REAL/Easel（Apache-2.0）：热点发现：抓各平台热搜，给选题窗口 |
+| 内容运营 | skill-competitor-analysis | 第三方 ZJU-REAL/Easel（Apache-2.0）：竞品内容分析：拆对标账号选题与表现 |
+| 内容运营 | skill-content-gap-analysis | 第三方 ZJU-REAL/Easel（Apache-2.0）：蓝海选题：找竞品未覆盖的内容缺口 |
+| 内容运营 | skill-cross-platform-diff | 第三方 ZJU-REAL/Easel（Apache-2.0）：跨平台差异：同题材在不同平台怎么改 |
+| 内容运营 | skill-event-calendar | 第三方 ZJU-REAL/Easel（Apache-2.0）：节日节点日历：节气/热点排期参考 |
+| 内容运营 | skill-trend-rider | 第三方 ZJU-REAL/Easel（Apache-2.0）：蹭热点方案：把热点接到账号定位上 |
+| 内容运营 | skill-topic-evaluator | 第三方 ZJU-REAL/Easel（Apache-2.0）：选题可行性评估：单条深评打分 |
+| 内容运营 | skill-hook-generator | 第三方 ZJU-REAL/Easel（Apache-2.0）：Hook 变体：标题/开头钩子多版生成 |
+| 内容运营 | skill-carousel-planner | 第三方 ZJU-REAL/Easel（Apache-2.0）：轮播图规划：多页卡片叙事结构 |
+| 内容运营 | skill-content-calendar | 第三方 ZJU-REAL/Easel（Apache-2.0）：内容排期表：周/月发什么、发哪 |
+| 内容运营 | xhs-note-creator | 第三方 ZJU-REAL/Easel（Apache-2.0）：小红书笔记创作：策划到成稿 |
+| 内容运营 | card-design | 第三方 ZJU-REAL/Easel（Apache-2.0）：卡片设计系统：视觉风格与版式（生成前必读） |
+| 内容运营 | card-xiaohongshu | 第三方 ZJU-REAL/Easel（Apache-2.0）：小红书竖版知识卡片渲染（1080×1440） |
+| 内容运营 | social-content | 第三方 ZJU-REAL/Easel（Apache-2.0）：社媒内容创作：多平台文案骨架 |
+| 内容运营 | text-polisher | 第三方 ZJU-REAL/Easel（Apache-2.0）：文本润色：改自然、去 AI 腔 |
+| 内容运营 | skill-content-repurposing | 第三方 ZJU-REAL/Easel（Apache-2.0）：内容改编：一条内容改成多平台版本 |
+| 内容运营 | style-transfer | 第三方 ZJU-REAL/Easel（Apache-2.0）：文案风格迁移：套目标语气/人设 |
+| 内容运营 | skill-persona-check | 第三方 ZJU-REAL/Easel（Apache-2.0）：人设一致性检查：发前核对口吻 |
+| 内容运营 | skill-publish-checklist | 第三方 ZJU-REAL/Easel（Apache-2.0）：发布前完整性检查：字段与素材是否齐 |
+| 内容运营 | skill-quality-gate | 第三方 ZJU-REAL/Easel（Apache-2.0）：发布前质量关卡：达标才放行 |
+| 内容运营 | skill-seo-quality | 第三方 ZJU-REAL/Easel（Apache-2.0）：平台原生搜索优化：标题标签可搜性 |
+| 内容运营 | skill-content-postmortem | 第三方 ZJU-REAL/Easel（Apache-2.0）：内容复盘：爆款规律提炼 |
+| 内容运营 | skill-comment-insights | 第三方 ZJU-REAL/Easel（Apache-2.0）：评论区洞察：量化反馈与选题线索 |
+| 内容运营 | skill-social-performance-review | 第三方 ZJU-REAL/Easel（Apache-2.0）：月度效果复盘：数据对照目标 |
 | 外贸管理 | b2b-cold-email | 外贸开发信与客户开发流程 |
 | 外贸管理 | incoterms-trade-docs | 贸易术语、单证与收款 |
 | 外贸管理 | negotiation-business-english | 商务英语与谈判 |
@@ -102,6 +150,8 @@
 | 软件工程师 | debugging-method | 调试方法论 |
 | 软件工程师 | test-driven-development | 先写测试再写代码（obra/superpowers，MIT） |
 | 软件工程师 | verification-before-completion | 宣布完成前必须实际运行验证并给证据（obra/superpowers，MIT） |
+| 软件工程师 | threejs-game-director | 第三方 majidmanzarpour/threejs-game-skills（MIT）：Three.js 网页游戏总入口，统筹玩法、画面、UI、调试、发布各阶段 |
+| 软件工程师 | threejs-gameplay-systems | 第三方 majidmanzarpour/threejs-game-skills（MIT）：Three.js 玩法实现：脚手架、设计简报、核心循环落地、关卡、输入、镜头、碰撞、手感 |
 | 音乐制作人 | harmony-theory | 乐理与和声 |
 | 音乐制作人 | arrangement-production | 编曲与制作：频段、层次、动态 |
 | 音乐制作人 | live-sound | 现场扩声与调音 |
