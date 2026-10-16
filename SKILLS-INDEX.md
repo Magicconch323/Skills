@@ -86,7 +86,7 @@
 | 灵感伙伴 | worldbuilding | 世界观构建：规则、历史、细节 |
 | 灵感伙伴 | chinese-poetics | 中文诗学与修辞：意境、炼字 |
 | 灵感伙伴 | creative-ideation | 发散方法：联想、组合、约束 |
-| 网络工程师 | networking-fundamentals | 网络基础：分层、TCP/IP、DNS、路由 |
+| 网络工程师 | networking-fundamentals | 网络基础：分层、TCP/IP、DNS、路由；含「网络排障流程」（由物理层向上逐层排查、每步留证据、一次只改一个变量、改前备份） |
 | 网络工程师 | proxy-protocols | 代理协议与客户端：Clash/mihomo、TLS 伪装 |
 | 网络工程师 | server-hardening | 服务器安全加固与运维 |
 | 网页工程师 | ux-usability-heuristics | 可用性原则：好不好用 |
@@ -96,6 +96,8 @@
 | 软件工程师 | game-design | 游戏设计：核心循环与数值 |
 | 软件工程师 | wechat-miniprogram | 微信小程序开发规范 |
 | 软件工程师 | debugging-method | 调试方法论 |
+| 软件工程师 | test-driven-development | 先写测试再写代码（obra/superpowers，MIT） |
+| 软件工程师 | verification-before-completion | 宣布完成前必须实际运行验证并给证据（obra/superpowers，MIT） |
 | 音乐制作人 | harmony-theory | 乐理与和声 |
 | 音乐制作人 | arrangement-production | 编曲与制作：频段、层次、动态 |
 | 音乐制作人 | live-sound | 现场扩声与调音 |
