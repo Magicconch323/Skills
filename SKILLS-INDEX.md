@@ -1,7 +1,7 @@
 # Skills 索引
 
 > 唯一实体位置：`.cursor/skills/<skill-name>/SKILL.md`（独立仓库 Magicconch323/Skills）。文件夹名 = SKILL.md 里的 `name`。
-> 维护：大管家 Bot。最后更新：2026-10-16。共 33 个。
+> 维护：大管家 Bot。最后更新：2026-10-16。共 98 个。
 
 | 来源 | Skill | 用途 | 路径 |
 |---|---|---|---|
