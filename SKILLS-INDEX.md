@@ -1,7 +1,7 @@
 # Skills 索引
 
 > 唯一实体位置：`.cursor/skills/<skill-name>/SKILL.md`（独立仓库 Magicconch323/Skills）。文件夹名 = SKILL.md 里的 `name`。
-> 维护：大管家 Bot。最后更新：2026-10-15。共 33 个。
+> 维护：大管家 Bot。最后更新：2026-10-16。共 33 个。
 
 | 来源 | Skill | 用途 | 路径 |
 |---|---|---|---|
@@ -92,6 +92,10 @@
 | 网页工程师 | ux-usability-heuristics | 可用性原则：好不好用 |
 | 网页工程师 | web-performance-feel | 性能与手感：不卡顿 |
 | 网页工程师 | web-accessibility | 无障碍与语义：WCAG |
+| 网页工程师、软件工程师 | web-physics-realism | 自写：物理真实感总入口（大白话→参数、选型、默认配置、自检、参考图+截图选项卡流程）；references 含 majidmanzarpour 引擎选型文档（MIT） |
+| 网页工程师、软件工程师 | physics-tuning | 第三方 gamedev-skills/awesome-gamedev-agent-skills（Apache-2.0）：步长、抖动、穿模、碰撞分层 |
+| 网页工程师 | threejs-shadow-systems | 第三方 scottstts/Threejs-Awesome-Graphics-Agent-Skills（MIT）：three.js 阴影系统 |
+| 网页工程师 | threejs-visual-validation | 第三方 scottstts/Threejs-Awesome-Graphics-Agent-Skills（MIT）：3D 画面截图验证 |
 | 软件工程师 | software-design-principles | 软件设计：降低复杂度 |
 | 软件工程师 | game-design | 游戏设计：核心循环与数值 |
 | 软件工程师 | wechat-miniprogram | 微信小程序开发规范 |
