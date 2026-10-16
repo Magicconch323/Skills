@@ -82,10 +82,10 @@
 | 日常 | objective-qa-method | 客观问答方法：先查再答、给证据 |
 | 日常 | source-evaluation | 信息源评估与辟谣 |
 | 日常 | practical-life-knowledge | 生活实用常识：消费维权、合同、安全 |
-| 灵感伙伴 | story-structure | 故事结构：冲突、人物弧、节拍 |
-| 灵感伙伴 | worldbuilding | 世界观构建：规则、历史、细节 |
-| 灵感伙伴 | chinese-poetics | 中文诗学与修辞：意境、炼字 |
-| 灵感伙伴 | creative-ideation | 发散方法：联想、组合、约束 |
+| 灵感 | story-structure | 故事结构：冲突、人物弧、节拍 |
+| 灵感 | worldbuilding | 世界观构建：规则、历史、细节 |
+| 灵感 | chinese-poetics | 中文诗学与修辞：意境、炼字 |
+| 灵感 | creative-ideation | 发散方法：联想、组合、约束 |
 | 网络工程师 | networking-fundamentals | 网络基础：分层、TCP/IP、DNS、路由；含「网络排障流程」（由物理层向上逐层排查、每步留证据、一次只改一个变量、改前备份） |
 | 网络工程师 | proxy-protocols | 代理协议与客户端：Clash/mihomo、TLS 伪装 |
 | 网络工程师 | server-hardening | 服务器安全加固与运维 |
