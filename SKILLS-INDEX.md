@@ -152,10 +152,10 @@
 | 软件工程师 | verification-before-completion | 宣布完成前必须实际运行验证并给证据（obra/superpowers，MIT） |
 | 软件工程师 | threejs-game-director | 第三方 majidmanzarpour/threejs-game-skills（MIT）：Three.js 网页游戏总入口，统筹玩法、画面、UI、调试、发布各阶段 |
 | 软件工程师 | threejs-gameplay-systems | 第三方 majidmanzarpour/threejs-game-skills（MIT）：Three.js 玩法实现：脚手架、设计简报、核心循环落地、关卡、输入、镜头、碰撞、手感 |
-| 音乐制作人 | harmony-theory | 乐理与和声 |
-| 音乐制作人 | arrangement-production | 编曲与制作：频段、层次、动态 |
-| 音乐制作人 | live-sound | 现场扩声与调音 |
-| 音乐制作人 | music-business | 音乐行业与发行 |
+| 音频工程师 | harmony-theory | 乐理与和声 |
+| 音频工程师 | arrangement-production | 编曲与制作：频段、层次、动态 |
+| 音频工程师 | live-sound | 现场扩声与调音 |
+| 音频工程师 | music-business | 音乐行业与发行 |
 
 ## 2026-10-16 图书馆新建 · 日常法律 skill
 
