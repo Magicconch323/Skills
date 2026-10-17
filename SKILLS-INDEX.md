@@ -116,10 +116,10 @@
 | 内容运营 | skill-content-postmortem | 第三方 ZJU-REAL/Easel（Apache-2.0）：内容复盘：爆款规律提炼 |
 | 内容运营 | skill-comment-insights | 第三方 ZJU-REAL/Easel（Apache-2.0）：评论区洞察：量化反馈与选题线索 |
 | 内容运营 | skill-social-performance-review | 第三方 ZJU-REAL/Easel（Apache-2.0）：月度效果复盘：数据对照目标 |
-| 外贸管理 | b2b-cold-email | 外贸开发信与客户开发流程 |
-| 外贸管理 | incoterms-trade-docs | 贸易术语、单证与收款 |
-| 外贸管理 | negotiation-business-english | 商务英语与谈判 |
-| 外贸管理 | steel-market-intel | 钢材外贸市场与贸易政策情报 |
+| 贸易管理 | b2b-cold-email | 外贸开发信与客户开发流程 |
+| 贸易管理 | incoterms-trade-docs | 贸易术语、单证与收款 |
+| 贸易管理 | negotiation-business-english | 商务英语与谈判 |
+| 贸易管理 | steel-market-intel | 钢材外贸市场与贸易政策情报 |
 | 大师 | bazi-classics | 八字古籍体系：格局、用神、调候 |
 | 大师 | ziwei-doushu | 紫微斗数：命盘结构与解读 |
 | 大师 | yijing-study | 易经与占卜：卦象、爻辞、义理 |
