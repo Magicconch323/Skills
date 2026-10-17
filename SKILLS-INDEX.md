@@ -1,7 +1,7 @@
 # Skills 索引
 
 > 唯一实体位置：`.cursor/skills/<skill-name>/SKILL.md`（独立仓库 Magicconch323/Skills）。文件夹名 = SKILL.md 里的 `name`。
-> 维护：大管家 Bot。最后更新：2026-10-17。共 124 个。
+> 维护：大管家 Bot。最后更新：2026-10-18。共 126 个。
 
 | 来源 | Skill | 用途 | 路径 |
 |---|---|---|---|
@@ -12,7 +12,9 @@
 | 自写 | **renovation-knowledge-index** | 装修问答：查 知识库/装修资料 并联网核实（触发词「执行装修skill」）；2026-10-16 起归图书馆 | `.cursor/skills/renovation-knowledge-index/SKILL.md` |
 | 自写 | **lyrics-author** | 中文作词：从 知识库/歌词 语料学习个人风格，动笔前先问 5–10 个问题 | `.cursor/skills/lyrics-author/SKILL.md` |
 | 自写 | **chord-sheet** | 和弦谱：产出 A4 单页 .docx 和弦谱，存 Project/和弦谱/ | `.cursor/skills/chord-sheet/SKILL.md` |
-| 自写 | **suno-prompt** | Suno v6 提示词包：Style / Exclude / Controls / 歌词骨架 + 校验脚本 | `.cursor/skills/suno-prompt/SKILL.md` |
+| 自写 | **suno-prompt** | Suno v6 提示词包：Style / Exclude / Controls / 歌词骨架 + 校验脚本（归提示词工程师） | `.cursor/skills/suno-prompt/SKILL.md` |
+| 自写 | **midjourney-prompt** | Midjourney V8.2 提示词：固定结构、参数速查、中文转英文（归提示词工程师） | `.cursor/skills/midjourney-prompt/SKILL.md` |
+| 自写 | **audio-analysis** | 音频节奏分析：beat_this + librosa → 节拍网格/粗分鼓点/段落 JSON + CSV（归音频工程师；10/23 前不运行） | `.cursor/skills/audio-analysis/SKILL.md` |
 | 自写 | **web-design-workflow** | 「现在开始网页设计」总工作流：选栈、加载其他前端 skill、反 AI 模板审美 | `.cursor/skills/web-design-workflow/SKILL.md` |
 | 自写 | **web-self-check** | 网页交付前 Playwright 截图 + 交互验收，不合格自动再改 | `.cursor/skills/web-self-check/SKILL.md` |
 | 本地封装 | **animejs** | 使用本地 Anime.js v4（skills/网页设计/libs/animejs）做轻量动效 | `.cursor/skills/animejs/SKILL.md` |
@@ -67,7 +69,8 @@
 
 - 网页：`web-design-workflow` 是入口，按需调用 `frontend-design` / `impeccable` / `ui-ux-pro-max` / `animejs` / `gsap` / `react-bits`；交付前 `web-self-check`（依赖 `webapp-testing`）。
 - 年度计划：`plan-mentor-maverick` 定方向，`task-breakdown-secretary` 拆执行。
-- 音乐：`lyrics-author` 写词 → `chord-sheet` 出谱 → `suno-prompt` 生成。
+- 音乐：`lyrics-author` 写词 → `chord-sheet` 出谱 → `suno-prompt` 出提示词（提示词工程师）→ 主人在 Suno 生成；需要节奏数据时 `audio-analysis`（音频工程师）。
+- 图像：品牌顾问定方向 → `midjourney-prompt` 出提示词（提示词工程师）→ 主人在 Midjourney 生成。
 
 ## 已归档 / 已移除（2026-10-15 整理）
 

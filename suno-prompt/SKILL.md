@@ -5,6 +5,8 @@ description: Suno v6 提示词工程师（v6 / v6-wild / v6-mini）。把一首�
 
 # Suno v6 提示词工程师
 
+> 归属：提示词工程师（2026-10-18 自音频工程师移入）。只交付提示词，不调用 Suno 生成。
+
 > 知识来源：[zarlor/suno-band-manager](https://github.com/zarlor/suno-band-manager)（MIT，见 `LICENSE-upstream`）的 `suno-style-prompt-builder` + `suno-lyric-transformer` + `SUNO-REFERENCE.md`，2026-10-08 拉取。本 SKILL.md 是去掉 BMad / uv / band-profile 依赖后的 Cursor 适配版；`references/` 原样保留。
 > 平台状态：**v6 家族 2026-09-09 上线并退役所有旧模型**。references 里标 PREVIEW / COMMUNITY / ANECDOTAL 的条目是证据分级，不是定论；与 v6 测试冲突时以用户自己的生成结果为准。
 
