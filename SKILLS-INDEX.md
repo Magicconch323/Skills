@@ -85,12 +85,12 @@
 
 | Bot | Skill | 说明 |
 |---|---|---|
-| 品牌资产 | graphic-design-foundations | 平面设计基础：网格、版式、字体、色彩、层级 |
-| 品牌资产 | spatial-aesthetics | 室内设计与空间美学：尺度、光、材质、动线 |
-| 品牌资产 | visual-style-atlas | 审美与风格流派图谱：识别特征与适用场景 |
-| 品牌资产 | aesthetic-profile | 主人个人审美档案的建立与维护 |
-| 品牌资产 | brand-building-logic | 成功品牌的要素与底层逻辑 |
-| 品牌资产 | brand-strategy-market-sense | 广告与战略基础、市场商业感、跟进时事 |
+| 品牌顾问 | graphic-design-foundations | 平面设计基础：网格、版式、字体、色彩、层级 |
+| 品牌顾问 | spatial-aesthetics | 室内设计与空间美学：尺度、光、材质、动线 |
+| 品牌顾问 | visual-style-atlas | 审美与风格流派图谱：识别特征与适用场景 |
+| 品牌顾问 | aesthetic-profile | 主人个人审美档案的建立与维护 |
+| 品牌顾问 | brand-building-logic | 成功品牌的要素与底层逻辑 |
+| 品牌顾问 | brand-strategy-market-sense | 广告与战略基础、市场商业感、跟进时事 |
 | 内容运营 | copywriting-craft | 文案写作功底：标题、钩子、结构、改稿 |
 | 内容运营 | consumer-psychology | 人性与说服心理：真诚前提下的影响力 |
 | 内容运营 | platform-content-ops | 平台内容运营：小红书/B站/抖音的选题、节奏与复盘 |
