@@ -182,3 +182,9 @@
 | 日常 | legal-procedure-evidence | 证据保全、时效、民事诉讼、12348 法律援助 |
 | 日常 | personal-info-online-rights | 个人信息保护、网络侵权、网络诈骗 |
 | 日常 | traffic-accident-handling | 交通事故处置与理赔 |
+
+## 2026-10-22 登记 · 空窗期新装
+
+| 来源 | Skill | 用途 | 路径 |
+|---|---|---|---|
+| 第三方 | **design-dna** | zanwei/design-dna（MIT）：从参考图/截图/URL 提取「设计 DNA」（设计系统 token、风格气质、视觉特效三维）成 JSON，或按 JSON 生成设计。10/21 网页工程师看官网参考图时安装；分配待定（网页工程师相关） | `.cursor/skills/design-dna/SKILL.md` |
