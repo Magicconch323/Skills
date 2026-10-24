@@ -1,7 +1,7 @@
 # Skills 索引
 
 > 唯一实体位置：`.cursor/skills/<skill-name>/SKILL.md`（独立仓库 Magicconch323/Skills）。文件夹名 = SKILL.md 里的 `name`。
-> 维护：大管家 Bot。最后更新：2026-10-24。共 132 个（含用户级 fortune+起名六 skill；bazi/cyber-divination 已计）。
+> 维护：大管家 Bot。最后更新：2026-10-24（用户级：fortune/bazi/cyber-divination 待重审；人名 baby-name/chinese-naming 已归档；已删 namer/brand-naming/naming-assistant）。
 
 | 来源 | Skill | 用途 | 路径 |
 |---|---|---|---|
@@ -192,9 +192,4 @@
 | 用户级 GitHub | **bazi** | jinchenma94/bazi-skill「赛博算命」：八字排盘 `pai_pan.py`（归大师） | `C:\Users\Administrator\.cursor\skills\bazi\` |
 | 用户级 GitHub | **cyber-divination** | fysh1010/cyber-divination：小六壬/八字/婚姻/奇门综合占卜（归大师；排盘优先 bazi） | `C:\Users\Administrator\.cursor\skills\cyber-divination\` |
 | 用户级 GitHub | **fortune** | ai-freer/fortune-skill：八字+紫微（归大师；排盘优先 bazi，紫微可用本 skill） | `C:\Users\Administrator\.cursor\skills\fortune\` |
-| 用户级 GitHub | **naming-assistant** | mengbao：宝宝/笔名/品牌店铺+八字取名（归大师） | `C:\Users\Administrator\.cursor\skills\naming-assistant\` |
-| 用户级 GitHub | **chinese-naming** | zhangjk1207/naming-skill：中文人名/宝宝/笔名（归大师） | `C:\Users\Administrator\.cursor\skills\chinese-naming\` |
-| 用户级 GitHub | **baby-name** | amliuyong/skills-baby-name：八字命名顾问（归大师） | `C:\Users\Administrator\.cursor\skills\baby-name\` |
-| 用户级 GitHub | **brand-naming** | glacierphonk/naming：产品/品牌反 AI 烂名（归大师；文件夹 name=naming） | `C:\Users\Administrator\.cursor\skills\brand-naming\` |
-| 用户级 GitHub | **namer** | jbold/namer：商业命名 Diamond Framework（归大师） | `C:\Users\Administrator\.cursor\skills\namer\` |
 
