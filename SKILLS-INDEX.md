@@ -192,4 +192,6 @@
 | 用户级 GitHub | **bazi** | jinchenma94/bazi-skill「赛博算命」：八字排盘 `pai_pan.py`（归大师） | `C:\Users\Administrator\.cursor\skills\bazi\` |
 | 用户级 GitHub | **cyber-divination** | fysh1010/cyber-divination：小六壬/八字/婚姻/奇门综合占卜（归大师；排盘优先 bazi） | `C:\Users\Administrator\.cursor\skills\cyber-divination\` |
 | 用户级 GitHub | **fortune** | ai-freer/fortune-skill：八字+紫微（归大师；排盘优先 bazi，紫微可用本 skill） | `C:\Users\Administrator\.cursor\skills\fortune\` |
+| 用户级 GitHub | **chinese-naming** | **已撤销归档** Bots/_版本/已撤销-skill-20261024/chinese-naming/（主人 t537） |
+| 用户级 GitHub | **baby-name** | **已撤销归档** Bots/_版本/已撤销-skill-20261024/baby-name/（主人 t537） |
 
