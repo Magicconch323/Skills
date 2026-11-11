@@ -1,0 +1,13 @@
+Video Prompting — local character-card extension
+
+Upstream: Square-Zero-Labs/video-prompting-skill
+https://github.com/Square-Zero-Labs/video-prompting-skill
+Upstream license: Apache License 2.0; see LICENSE.
+Pinned upstream revision: 3f55fd70342d0874d66a54e9708e881462414c06
+
+Local modifications, 2026-11-11:
+- SKILL.md: expanded discovery/routing and actual image-delivery handling for real-photo character cards; existing video model guides preserved.
+- references/workflows/real-photo-character-cards.md: user-confirmed common requirements, without person-specific adjustment settings.
+- assets/character-card-template.png: user-supplied project template for design/color reference only, not part of the upstream software license and not an identity source for other people.
+
+The source revision identifies the downloaded version; this is a locally modified package, not an unmodified upstream release.

@@ -1,0 +1,7 @@
+interface:
+  display_name: "保留作者声音的编辑器"
+  short_description: "减少模板感，同时锁定事实、立场和个人语气"
+  default_prompt: "使用 $voice-preserving-editor 编辑这段文字，保持事实、立场和我的语言习惯。"
+
+policy:
+  allow_implicit_invocation: true
